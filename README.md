@@ -15,6 +15,12 @@ The android will begin detection 15 seconds after closing the app.
 
 Reopening the app after no movement will result in the same alert above.
 
+![Screen Shot 2020-03-30 at 4 49 25 AM](https://user-images.githubusercontent.com/46305741/77909269-eba32600-7241-11ea-9b8b-4892f7b60749.png)
+
+Movement along any of the axes will result in sensor detection.
+
+
+
 
 
 
