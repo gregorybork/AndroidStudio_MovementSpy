@@ -19,6 +19,12 @@ Reopening the app after no movement will result in the same alert above.
 
 Movement along any of the axes will result in sensor detection.
 
+![Screen Shot 2020-03-30 at 4 52 22 AM](https://user-images.githubusercontent.com/46305741/77909488-4e94bd00-7242-11ea-9bc9-119da8853fac.png)
+
+## Buttons
+
+The clear button will reset the app as "Hasn't budged an inch" and the exit button will exit the app. 
+
 
 
 
