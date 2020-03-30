@@ -5,7 +5,8 @@ This Android Studio Project detects movement from its previous location. This wi
 
 ## Open the App
 
-![Screen Shot 2020-03-30 at 4 22 25 AM](https://user-images.githubusercontent.com/46305741/77908110-b8f82e00-723f-11ea-9b7b-2568f0bf1e7c.png )
+
+![Screen Shot 2020-03-30 at 4 22 25 AM](https://user-images.githubusercontent.com/46305741/77909829-dda1d500-7242-11ea-859b-2f3aff203a34.png)
 
 Notice the alert saying "Hasn't budged an inch".
 The android will begin detection 15 seconds after closing the app.
