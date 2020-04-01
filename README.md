@@ -14,7 +14,7 @@ The android will begin detection 15 seconds after closing the app.
 ## Detection
 ![Screen Shot 2020-03-30 at 4 26 45 AM](https://user-images.githubusercontent.com/46305741/77908969-53a53c80-7241-11ea-96d1-a01180677c42.png)
 
-Reopening the app after no movement will result in the same alert, "Hasn't budged an inch.".
+Reopening the app after no movement will result in the same alert, "Hasn't budged an inch".
 
 ![Screen Shot 2020-03-30 at 4 49 25 AM](https://user-images.githubusercontent.com/46305741/77909269-eba32600-7241-11ea-9b8b-4892f7b60749.png)
 
