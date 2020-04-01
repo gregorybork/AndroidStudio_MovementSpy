@@ -1,4 +1,4 @@
-# README
+# AndroidStudio_MovementSpy
 
 This Android Studio Project detects movement from its previous location. This will detect nosey people looking at your phone while you are not around.
 
