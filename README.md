@@ -18,7 +18,7 @@ Reopening the app after no movement will result in the same alert above.
 
 ![Screen Shot 2020-03-30 at 4 49 25 AM](https://user-images.githubusercontent.com/46305741/77909269-eba32600-7241-11ea-9b8b-4892f7b60749.png)
 
-Movement along any of the axes will result in sensor detection.
+Movement along any of the axes will result in sensor detection. Then an alert showing "The phone was moved!" will appear after reopening the app. 
 
 ![Screen Shot 2020-03-30 at 4 52 22 AM](https://user-images.githubusercontent.com/46305741/77909488-4e94bd00-7242-11ea-9bc9-119da8853fac.png)
 
